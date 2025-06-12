@@ -36,35 +36,35 @@ A clean, responsive **Weather Forecast Web App** that shows the current weather 
 
 1. **Clone the repository:**
 
-git clone https://github.com/yourusername/weather-forecast-app.git
-cd weather-forecast-app
-Open index.html in your browser.
+- git clone https://github.com/yourusername/weather-forecast-app.git
+- cd weather-forecast-app
+- Open index.html in your browser.
 
 🧪 Project Structure
 
 weather-forecast-app/
-├── index.html          # Main HTML file
-├── style.css           # Custom styles
-├── script.js           # Weather logic using Fetch API
-└── README.md
+- ├── index.html          # Main HTML file
+- ├── style.css           # Custom styles
+- ├── script.js           # Weather logic using Fetch API
+- └── README.md
 
 🧠 How It Works
 
-User types in a city name.
-JavaScript sends a GET request to OpenWeatherMap’s API.
-The response is parsed and displayed dynamically:
-City name
-Current temperature
-Weather icon and condition
-Wind speed and humidity
+- User types in a city name.
+- JavaScript sends a GET request to OpenWeatherMap’s API.
+- The response is parsed and displayed dynamically:
+- City name
+- Current temperature
+- Weather icon and condition
+- Wind speed and humidity
 
 🙋‍♂️ Author
 
-Emmanuel Itrechio
-GitHub: @Emmaitrechio2024
-Email: emmanuelitrix@gmail.com
+- Emmanuel Itrechio
+- GitHub: @Emmaitrechio2024
+- Email: emmanuelitrix@gmail.com
 
 🌟 Acknowledgements
 
-OpenWeatherMap
-Inspiration from simple weather apps on CodePen & GitHub
+- OpenWeatherMap
+- Inspiration from simple weather apps on CodePen & GitHub
