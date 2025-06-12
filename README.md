@@ -36,7 +36,7 @@ A clean, responsive **Weather Forecast Web App** that shows the current weather 
 
 1. **Clone the repository:**
 
-- git clone https://github.com/yourusername/weather-forecast-app.git
+- git clone https://github.com/Emmaitrechio2024/weather-.git
 - cd weather-forecast-app
 - Open index.html in your browser.
 
